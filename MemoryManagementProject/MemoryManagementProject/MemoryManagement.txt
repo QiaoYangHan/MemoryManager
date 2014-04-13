@@ -1,0 +1,7 @@
+referenceFile=references.txt
+missPenalty=1
+dirtyPagePenalty=1
+pageSize=1024
+VAbits=16
+PAbits=13
+debug=true
